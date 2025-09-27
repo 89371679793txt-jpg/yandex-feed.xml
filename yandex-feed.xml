@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2025-09-27 12:00">
+  <shop>
+    <name>Gold dragon tattoo</name>
+    <company>Gold Dragon</company>
+    <url>https://golddragontattoo.ru</url>
+    
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    
+    <categories>
+      <category id="1">Татуировки</category>
+      <category id="2">Пирсинг</category>
+      <category id="3">Удаление тату</category>
+      <category id="4">Перекрытие шрамов и ожогов</category>
+      <category id="5">Обучение татуировке</category>
+    </categories>
+    
+    <offers>
+      <offer id="1" type="vendor.model">
+        <name>Татуировки в Октябрьском - Профессиональные тату любой сложности</name>
+        <url>https://golddragontattoo.ru</url>
+        <price>6000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.tildacdn.com/stor3465-3066-4136-b831-373231376534/73704744.jpg</picture>
+        <description>Профессиональные татуировки любой сложности от мастеров с 10-летним опытом. Индивидуальные эскизы, реализм, перекрытие старых работ. Рейтинг 5.0 на основе 52 отзывов.</description>
+        
+        <param name="рейтинг" unit="балл">5.0</param>
+        <param name="число отзывов" unit="шт">52</param>
+        <param name="годы опыта" unit="лет">10</param>
+        <param name="регион">Октябрьский</param>
+        <param name="конверсия" unit="%">2</param>
+        <param name="тип услуги">татуировка</param>
+        <param name="вид услуги">художественная татуировка</param>
+      </offer>
+      
+      <offer id="2" type="vendor.model">
+        <name>Пирсинг в Октябрьском - Безопасные проколы от опытных мастеров</name>
+        <url>https://golddragontattoo.ru</url>
+        <price>2500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://static.tildacdn.com/stor3866-6636-4232-b831-343461663431/56156512.jpg</picture>
+        <description>Безопасный пирсинг от мастеров с 10-летним опытом. Стерильные условия, сертифицированные инструменты. Рейтинг 5.0 по 52 отзывам.</description>
+        
+        <param name="рейтинг" unit="балл">5.0</param>
+        <param name="число отзывов" unit="шт">52</param>
+        <param name="годы опыта" unit="лет">10</param>
+        <param name="регион">Октябрьский</param>
+        <param name="конверсия" unit="%">2</param>
+        <param name="тип услуги">пирсинг</param>
+        <param name="вид услуги">косметический пирсинг</param>
+      </offer>
+      
+      <offer id="3" type="vendor.model">
+        <name>Удаление татуировок в Октябрьском - Современные методы</name>
+        <url>https://golddragontattoo.ru</url>
+        <price>1000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://static.tildacdn.com/stor6165-3233-4464-b834-306531656436/79968203.jpg</picture>
+        <description>Удаление татуировок современными методами. Опыт работы 10 лет, рейтинг 5.0 по 52 отзывам. Индивидуальный подход к каждому клиенту.</description>
+        
+        <param name="рейтинг" unit="балл">5.0</param>
+        <param name="число отзывов" unit="шт">52</param>
+        <param name="годы опыта" unit="лет">10</param>
+        <param name="регион">Октябрьский</param>
+        <param name="конверсия" unit="%">2</param>
+        <param name="тип услуги">удаление татуировок</param>
+        <param name="вид услуги">лазерное удаление</param>
+      </offer>
+      
+      <offer id="4" type="vendor.model">
+        <name>Перекрытие шрамов и ожогов в Октябрьском - Художественная тату</name>
+        <url>https://golddragontattoo.ru</url>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://static.tildacdn.com/stor3765-3737-4532-b030-356536386537/99008045.jpg</picture>
+        <description>Художественное перекрытие шрамов, ожогов и старых татуировок. Мастера с 10-летним опытом, рейтинг 5.0.</description>
+        
+        <param name="рейтинг" unit="балл">5.0</param>
+        <param name="число отзывов" unit="шт">52</param>
+        <param name="годы опыта" unit="лет">10</param>
+        <param name="регион">Октябрьский</param>
+        <param name="конверсия" unit="%">2</param>
+        <param name="тип услуги">косметическая татуировка</param>
+        <param name="вид услуги">перекрытие шрамов</param>
+      </offer>
+      
+      <offer id="5" type="vendor.model">
+        <name>Обучение татуировке в Октябрьском - Профессиональные курсы</name>
+        <url>https://golddragontattoo.ru</url>
+        <price>50000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://static.tildacdn.com/stor3339-3962-4162-a563-396335633133/31970848.jpg</picture>
+        <description>Профессиональное обучение татуировке от мастеров с 10-летним опытом. Теория и практика, сертификат. Рейтинг 5.0.</description>
+        
+        <param name="рейтинг" unit="балл">5.0</param>
+        <param name="число отзывов" unit="шт">52</param>
+        <param name="годы опыта" unit="лет">10</param>
+        <param name="регион">Октябрьский</param>
+        <param name="конверсия" unit="%">2</param>
+        <param name="тип услуги">обучение</param>
+        <param name="вид услуги">курсы татуировки</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
